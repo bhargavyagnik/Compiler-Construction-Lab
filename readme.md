@@ -15,10 +15,12 @@ using
     which bison
 
 You will see something like
+
 ![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/which.jpg)
 
 To directly use this project, just fork this repository and using comand line go to the directory where it is downloaded.
 in WSL you can do it using `cd /mnt/d/cc_codes/` 
+
 If your code is in D drive in the folder "cc_codes"
 
 | |  Program  | Description |
