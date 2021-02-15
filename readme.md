@@ -23,7 +23,7 @@ If your code is in D drive in the folder "cc_codes"
 
 | |  Program  | Description |
 |--|--|--|
-| 1 | [Hi -> Hello World](#1. Hi -> Hello World) | This program prints as "Hello World" input string matches as "Hi" 
+| 1 | [Hi -> Hello World](#1.-Hi-->-Hello-World) | This program prints as "Hello World" input string matches as "Hi" 
 | 2 | Print Name from Input | This program takes input from the user and prints user name with a hello message |
 | 3 | Count Vowels and Consonants | This program counts the vowels and consonants in the string |
 | 4 | Print only Capital Strings | This program prints all the capital words in the sentence |
