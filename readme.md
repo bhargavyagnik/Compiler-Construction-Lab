@@ -37,7 +37,7 @@ If your code is in D drive in the folder "cc_codes"
 	./a.out `
 	```
 	Output: 
-			![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p1.jpg)
+	![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p1.jpg)
 
 2. Print Name from Input
 	This program takes input from the user and prints user name with a hello message
@@ -46,7 +46,8 @@ If your code is in D drive in the folder "cc_codes"
 	gcc lex.yy.c
 	./a.out
 	```
-		Output:![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p2.jpg)
+	Output:
+	![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p2.jpg)
 
 3. Count Vowels and Consonants
 	This program counts the vowels and consonants in the string 
@@ -55,7 +56,8 @@ If your code is in D drive in the folder "cc_codes"
 	gcc lex.yy.c
 	./a.out
 	```
-		Output:![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p3.jpg)
+	Output:
+	![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p3.jpg)
 4. Print only Capital Strings
 	This program prints all the capital words in the sentence
 	```
@@ -63,7 +65,8 @@ If your code is in D drive in the folder "cc_codes"
 	gcc lex.yy.c
 	./a.out 
 	```
-		Output:![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p4.jpg)
+	Output:
+	![enter image description here](https://raw.githubusercontent.com/bhargavyagnik/Compiler-Construction-Lab/main/screenshots/p4.jpg)
 5. Wellformed Parenthesis
 		This program reads a file b.c and checks if the parenthesis are properly closed and prints if there is any unclosed parenthesis 
 	```
